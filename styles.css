@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #fcb8f8;
+    padding: 20px;
+}
+div {
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./Zenitsu1.jpg);
+}
+h1 {
+    text-align: center;
+    color: #ce0d4d;
+}
+#btn {
+    display: block;
+    margin: 0 auto;
+    background-color: #ce0d4d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
